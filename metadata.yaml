@@ -7,6 +7,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '37824'
     url: http://www.gutenberg.org/2009/agents/37824
+covers:
+- cover_type: archival
+  image_path: 67188-h/images/cover.jpg
 creator:
   author:
     agent_name: Morley, Christopher
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/109
     wikipedia: https://en.wikipedia.org/wiki/Christopher_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67188#The-Powder-of-Sympathy
 gutenberg_issued: '2022-01-17'
 identifiers:
   gutenberg: '67188'
